@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif !important;
+    background-color: azure;
+}
+
+.header-main {
+    background-color: rgb(254, 248, 76);
+}
+
+.header-content {
+    max-width: 1280px;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.search-form {
+    display: flex;
+}
+
+.logo img {
+    width: 100px;
+}
