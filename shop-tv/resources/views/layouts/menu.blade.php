@@ -14,8 +14,10 @@
                 </div>
             </div>
         </div>
-        <div class="card-button align-items-end col-2">
-            3
+        <div class="cart-button align-items-end col-2">
+           <button class="btn btn-outline-danger">
+                Giỏ Hàng / <i class="fas fa-shopping-cart"></i>   
+           </button>
         </div>
     </div>
 </div>

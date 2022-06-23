@@ -20,3 +20,11 @@ body {
 .logo img {
     width: 100px;
 }
+
+.cart-button {
+    display: flex;
+}
+
+.cart-button>button {
+    margin: auto;
+}
